@@ -1,7 +1,6 @@
 import { useState, useRef } from 'react';
 import type { CSSProperties } from 'react';
 import {
-  ...
   Upload,
   LogOut,
   Languages,
