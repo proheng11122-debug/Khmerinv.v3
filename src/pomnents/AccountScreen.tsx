@@ -7,7 +7,7 @@ import {
   QrCode,
   Upload,
   LogOut,
-  Languages,
+  Languages,/
   Clock,
   Lock,
   CheckCircle2,
