@@ -1,13 +1,10 @@
 import { useState, useRef } from 'react';
 import type { CSSProperties } from 'react';
 import {
-  ArrowLeft,
-  User,
-  Phone,
-  QrCode,
+  ...
   Upload,
   LogOut,
-  Languages,/
+  Languages,
   Clock,
   Lock,
   CheckCircle2,
